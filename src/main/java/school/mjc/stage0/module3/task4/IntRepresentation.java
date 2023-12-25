@@ -13,9 +13,9 @@ public class IntRepresentation {
         int intA = a;
         int intR = r;
 
-        System.out.println("Integer Representation of " + c + " is " + intC);
-        System.out.println("Integer Representation of " + h + " is " + intH);
-        System.out.println("Integer Representation of " + a + " is " + intA);
-        System.out.println("Integer Representation of " + r + " is " + intR);
+        System.out.println(intC);
+        System.out.println(intH);
+        System.out.println(intA);
+        System.out.println(intR);
     }
 }
